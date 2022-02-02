@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  background-image: "https://www.teahub.io/photos/full/35-353578_university-and-school-education-concept-with-e-learning.jpg";
+  background-repeat: 'no-repeat';
+  background-size: 'auto'
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
